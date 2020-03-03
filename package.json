@@ -7,7 +7,7 @@
   "main": "server/server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duhaime/react-boilerplate.git"
+    "url": "git+https://github.com/bkbonner/flask-react-boilerplate.git"
   },
   "scripts": {
     "start": "webpack-dev-server --port 7081 --history-api-fallback --mode=development",
