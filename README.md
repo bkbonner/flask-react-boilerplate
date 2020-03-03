@@ -16,10 +16,10 @@ Simple boilerplate for a Flask backend and React client including:
 To install the boilerplate dependencies, you can run:
 
 ```bash
-git clone https://github.com/YaleDHLab/flask-react-boilerplate
+git clone https://github.com/bkbonner/flask-react-boilerplate
 cd flask-react-boilerplate
 npm install --no-optional
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Quickstart
